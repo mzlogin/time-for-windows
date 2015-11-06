@@ -1,10 +1,11 @@
-# time-for-windows
+time-for-windows
+===
 
 A command to stats program running time on Windows.
 
-I named it `timew.exe` to make it diffrent from Windows' `time.exe`, means time-for-windows.
+I named it `timew.exe` to make it diffrent from Windows' `time` command. It means "time-for-windows".
 
-## Usage
+### Usage
 
 ```
 timew.exe <yourprogram>
@@ -18,3 +19,7 @@ C:\Users\mazhuang\Desktop>timew a.exe
 a.exe finished
 cost time: 6ms
 ```
+
+### Downloads
+
+You can find the lastest binary in <https://github.com/mzlogin/time-for-windows/releases/latest>.

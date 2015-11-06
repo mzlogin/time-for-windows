@@ -8,6 +8,7 @@
 void usage() {
 	_tprintf(_T("time command for windows:\n"));
 	_tprintf(_T("  timew.exe <yourprogram>\n"));
+	_tprintf(_T("\nsuggestions and bug report: https://github.com/mzlogin/time-for-windows\n"));
 }
 
 int _tmain(int argc, _TCHAR* argv[]) {
